@@ -11,6 +11,8 @@
 ![snake gif](https://github.com/antoniomrrds/antoniomrrds/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+<div align='start'>
+
 ### 🚀 Skills  Frontend 
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,6 +30,7 @@
 <img align="center" alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 
 ### 🛠 Tools:
+
 <img align="center" alt="Visual_Studio_Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -35,6 +38,7 @@
 <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="center" alt="Godot" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" />
 <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
 ### Databases
 <img align="center" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="center" alt="mySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -46,7 +50,7 @@
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-D73F03?style=for-the-badge&logo=Jest&logoColor=white" />
 
-
+</div>
 <hr>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=antoniomrrds&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
