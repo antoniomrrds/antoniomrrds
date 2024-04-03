@@ -52,7 +52,6 @@
 
 
 ### 📚 Studying in this moment:
-<img align='margin: 5px;' alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align='margin: 5px;' alt="jest" src="https://img.shields.io/badge/Jest-D73F03?style=for-the-badge&logo=Jest&logoColor=white" />
 <img align='margin: 5px;' alt="Nestjs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 
