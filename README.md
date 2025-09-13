@@ -156,8 +156,3 @@ SINCRONIZAÇÃO: 99.7% COM SISTEMA MAGI
 </td>
 </tr>
 </table>
-
----
-
-Quer que deixe ainda mais simplificado ou com mais termos técnicos?
-Curtiu essa pegada?
