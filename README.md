@@ -31,18 +31,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=30&duration=1000&pause=1000&color=FF6600&center=true&vCenter=true&multiline=true&repeat=false&width=2000&height=100&lines=Eu+sou+o+c%C3%B3digo+que+conecta+o+humano+ao+digital%2C+a+m%C3%A1quina+ao+corpo%2C+e+a+miss%C3%A3o+%C3%A9+transcender+os+limites+do+imposs%C3%ADvel.;Vamos+redefinir+o+futuro%2C+linha+por+linha." alt="Typing SVG" /></a> <br>
 
 
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/8f511f64-b6af-461c-8939-f1c60237b1bf" width="130" alt="Interface Futurista"align="right">
+</p>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/8f511f64-b6af-461c-8939-f1c60237b1bf" width="215" alt="Interface Futurista" align="right">
-</div>
+
+
+
+
 
 <h4 align="center">🔧 MÓDULO_01: ENGENHARIA_BACKEND</h4>
 
 ```bash
-> Linguagens:  C# | TypeScript
-> Frameworks: Node.js | .NET
-> Protocolos: REST | JWT | JSON
-> Conceitos: Microserviços | Multithreading | Middleware
+> 🧠 Linguagens Ativas: C# ∴ TypeScript
+> ⚙️ Plataformas: Node.js ∴ .NET
+> 🧬 Status: Estável ∴ Pronto para Escalar
+> 🔗 Pipeline Neural: Conectado ao Núcleo de Ascensão
+
 ```
 
 ![Node.js](https://img.shields.io/badge/Node.js-00FFAA?style=for-the-badge\&logo=node.js\&logoColor=black)
@@ -51,11 +56,26 @@
 ![.NET](https://img.shields.io/badge/.NET-FF0099?style=for-the-badge\&logo=dotnet\&logoColor=black)
 
 
+
+<div align="center">
+  <img width="268" height="188" alt="image" src="https://github.com/user-attachments/assets/546eb62f-46a5-412a-86b5-ba357986d75f"width="130" alt="Interface Futurista"align="left">
+</div>
+
+<h4 align="center">🌐 MÓDULO_02: INTERFACE_DE_USUÁRIO</h4>
+
+```bash
+> Plataforma: Next.js
+> Recursos: SSR | SSG | Rotas API | Otimização de imagens
+> Renderização: ⚡ Dinâmica | SEO-friendly | Ultra rápida
+```
+
+      
 <table style="width:100%">
 
 
-      
   
+
+
 
 
 
