@@ -84,7 +84,62 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-00FF66?style=for-the-badge\&logo=mongodb\&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-FF00AA?style=for-the-badge\&logo=mysql\&logoColor=black)
 
+<h4 align="center">📈 ATIVIDADE NO GITHUB</h4>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniomrrds&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniomrrds&theme=tokyonight" />
+</p>
+
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=1000&pause=1000&color=FF6600&vCenter=true&repeat=false&width=900&lines=O+desenvolvedor+do+amanh%C3%A3+n%C3%A3o+escreve+s%C3%B3+c%C3%B3digo+%E2%80%94+ele+cria+destinos)](https://git.io/typing-svg)
+</p>
+
+
+
+
+
+
+
+<table style="width:100%">
+  <tr>
+    <td width="50%" valign="top">
+
+<h4 align="center">🛠 MÓDULO_04: CAMADA_DEVOPS</h4>
+
+```bash
+> Orquestração de Deploy: Docker ∴ GitHub Actions
+> Testes de Integração: Postman ∴ Insomnia
+> Ambiente de Desenvolvimento: VSCode (com AI assistida)
+> Versionamento: Git ∴ GitHub
+```
+
+![Git](https://img.shields.io/badge/GIT-FF3300?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF00FF)
+![Docker](https://img.shields.io/badge/Docker-00FFFF?style=for-the-badge&logo=docker&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6600?style=for-the-badge&logo=postman&logoColor=black)
+![Insomnia](https://img.shields.io/badge/Insomnia-9900FF?style=for-the-badge&logo=insomnia&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-00FFCC?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+
+---
+
+<h4 align="center">🚧 MÓDULO_05: MOTOR_DE_APRENDIZADO</h4>
+
+```bash
+> Foco Atual:
+  ▸ Arquitetura Limpa com .NET
+  ▸ Pipelines CI/CD ∴ Containers Docker
+  ▸ Testes Automatizados ∴ Integração Contínua
+  ▸ Desenvolvimento com suporte de IA
+```
+
+![.NET](https://img.shields.io/badge/.NET-FF0099?style=for-the-badge&logo=.net&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-00FFAA?style=for-the-badge&logo=c-sharp&logoColor=black)
+
+</td>
+  </tr>
+</table>
 <h4 align="center">📡 COMUNICAÇÃO ENCRIPTADA</h4>
 
 <div align="center">
@@ -94,94 +149,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge\&logo=instagram\&logoColor=black)](https://www.instagram.com/antoniomarcosrrds)
 
 </div>
-
-
-
-<table style="width:100%">
-
-
-  
-
-
-
-
-
-
-
-  <tr>
-    <td width="50%" valign="top">
-
-
-
-<h4 align="center">🛠 MÓDULO_04: CAMADA_DEVOPS</h4>
-
-```bash
-> Deploy: Docker | GitHub Actions
-> Testes: Postman | Insomnia
-> IDE: VSCode [Com AI integrada]
-> Controle de versão: Git + GitHub
-```
-
-![Git](https://img.shields.io/badge/GIT-FF3300?style=for-the-badge\&logo=git\&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=FF00FF)
-![Docker](https://img.shields.io/badge/Docker-00FFFF?style=for-the-badge\&logo=docker\&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6600?style=for-the-badge\&logo=postman\&logoColor=black)
-![Insomnia](https://img.shields.io/badge/Insomnia-9900FF?style=for-the-badge\&logo=insomnia\&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-00FFCC?style=for-the-badge\&logo=visual-studio-code\&logoColor=black)
-
----
-
-<h4 align="center">🚧 MÓDULO_05: MOTOR_DE_APRENDIZADO</h4>
-
-```bash
-> Foco Atual:
-  ▸ Arquitetura Limpa (.NET)
-  ▸ CI/CD & Orquestração de Containers
-  ▸ Testes Automatizados
-  ▸ Desenvolvimento com AI assistida
-```
-
-![.NET](https://img.shields.io/badge/.NET-FF0099?style=for-the-badge\&logo=.net\&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-00FFAA?style=for-the-badge\&logo=c-sharp\&logoColor=black)
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🦾 PAINEL MECH</h3>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/6e/3c/3e/6e3c3e3e3c3e3e3c3e3e3c3e3e3c3e.gif" width="100%"/>
-</div>
-
----
-
-<h4 align="center">⚡ MODO SISTEMA: CYBER-EVA</h4>
-
-```txt
-> TODOS OS SISTEMAS FUNCIONANDO ✅
-> Aguardando próxima missão...
-> COMANDO: "CONSTRUA O FUTURO"
-```
-
-> *“[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=1000&pause=1000&color=FF6600&vCenter=true&repeat=false&width=900&lines=O+desenvolvedor+do+amanh%C3%A3+n%C3%A3o+escreve+s%C3%B3+c%C3%B3digo+%E2%80%94+ele+cria+destinos)](https://git.io/typing-svg)*
-> — **Antônio Marcos**
-
----
-
-<h4 align="center">📈 ATIVIDADE NO GITHUB</h4>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniomrrds&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniomrrds&theme=tokyonight" />
-</p>
-
----
-
-
----
-
-
-</td>
-</tr>
-</table>
