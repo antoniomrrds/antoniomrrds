@@ -19,16 +19,17 @@ LOCALIZAÇÃO: BRASIL.MG.TERRA
 SINCRONIZAÇÃO: 99.7% COM SISTEMA MAGI
 ```
 
-💡 Mente inquieta e curiosa
-🧠 Paixão por inovação e tecnologia
-🌌 Explorador dos limites do futuro
-🎮 Gamer para recarregar a mente
+💡 Mente inquieta e curiosa<br>
+🧠 Paixão por inovação e tecnologia<br>
+🌌 Explorador dos limites do futuro<br>
+🎮 Gamer para recarregar a mente<br>
 🤖 Apaixonado por inteligência artificial
 🛸 Codificando hoje para dominar amanhã
 
-> *“Código é energia. Máquina é corpo. Missão é transcender limites.”*
----
 
+
+> *[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=1000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=false&width=900&lines=C%C3%B3digo+%C3%A9+energia.+M%C3%A1quina+%C3%A9+corpo.+Miss%C3%A3o+%C3%A9+transcender+limites.)](https://git.io/typing-svg)*
+---
 <h4 align="center">🔧 MÓDULO_01: ENGENHARIA_BACKEND</h4>
 
 ```bash
@@ -122,7 +123,7 @@ SINCRONIZAÇÃO: 99.7% COM SISTEMA MAGI
 > COMANDO: "CONSTRUA O FUTURO"
 ```
 
-> *“O desenvolvedor do amanhã não escreve só código — ele cria destinos.”*
+> *“[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=1000&pause=1000&color=FF6600&vCenter=true&repeat=false&width=900&lines=O+desenvolvedor+do+amanh%C3%A3+n%C3%A3o+escreve+s%C3%B3+c%C3%B3digo+%E2%80%94+ele+cria+destinos)](https://git.io/typing-svg)*
 > — **Antônio Marcos**
 
 ---
