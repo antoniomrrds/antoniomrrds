@@ -32,12 +32,8 @@
 
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/8f511f64-b6af-461c-8939-f1c60237b1bf" width="130" alt="Interface Futurista"align="right">
+    <img alt="image" src="https://github.com/user-attachments/assets/824c0d03-91b6-48af-9c5b-95d098b3b05c" width="400" alt="Interface Futurista"align="right">
 </p>
-
-
-
-
 
 
 <h4 align="center">🔧 MÓDULO_01: ENGENHARIA_BACKEND</h4>
@@ -64,12 +60,43 @@
 <h4 align="center">🌐 MÓDULO_02: INTERFACE_DE_USUÁRIO</h4>
 
 ```bash
-> Plataforma: Next.js
-> Recursos: SSR | SSG | Rotas API | Otimização de imagens
-> Renderização: ⚡ Dinâmica | SEO-friendly | Ultra rápida
-```
+> 🧭 Plataforma: Next.js
+> 🧰 Recursos: SSR ∴ SSG ∴ API Routes ∴ Image Optimization
+> ⚡ Renderização: Dinâmica ∴ SEO-friendly ∴ Ultra rápida
 
+```
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge\&logo=next.js\&logoColor=FF00FF)
       
+
+<div align="center">
+<img  alt="image" src="https://github.com/user-attachments/assets/a7f2bb18-7a1d-4d2f-af3d-23a1cfb8342e" width="300" alt="Interface Futurista"align="right">
+</div>
+
+<h4 align="center">🧠 MÓDULO_03: NÚCLEO_DE_DADOS</h4>
+
+```bash
+> 🗄️ Bancos: PostgreSQL ∴ MongoDB ∴ MySQL
+> 🧬 Estrutura: Híbrida (SQL + NoSQL)
+> ⚙️ Estabilidade: Alta disponibilidade ∴ Escalabilidade
+
+```
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FFCC?style=for-the-badge\&logo=postgresql\&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-00FF66?style=for-the-badge\&logo=mongodb\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-FF00AA?style=for-the-badge\&logo=mysql\&logoColor=black)
+
+
+<h4 align="center">📡 COMUNICAÇÃO ENCRIPTADA</h4>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://www.linkedin.com/in/antônio-marcosrrds)
+[![Gmail](https://img.shields.io/badge/Gmail-FF0033?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:antoniomarcos.amrrds@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge\&logo=instagram\&logoColor=black)](https://www.instagram.com/antoniomarcosrrds)
+
+</div>
+
+
+
 <table style="width:100%">
 
 
@@ -83,33 +110,8 @@
 
   <tr>
     <td width="50%" valign="top">
----
 
-<h4 align="center">🌐 MÓDULO_02: INTERFACE_DE_USUÁRIO</h4>
 
-```bash
-> Plataforma: Next.js
-> Recursos: SSR | SSG | Rotas API | Otimização de imagens
-> Renderização: ⚡ Dinâmica | SEO-friendly | Ultra rápida
-```
-
-![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge\&logo=next.js\&logoColor=FF00FF)
-
----
-
-<h4 align="center">🧠 MÓDULO_03: NÚCLEO_DE_DADOS</h4>
-
-```bash
-> Bancos: PostgreSQL | MongoDB | MySQL
-> Estrutura: SQL + NoSQL híbrido
-> Estabilidade: Alta disponibilidade | Escalabilidade
-```
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FFCC?style=for-the-badge\&logo=postgresql\&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-00FF66?style=for-the-badge\&logo=mongodb\&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-FF00AA?style=for-the-badge\&logo=mysql\&logoColor=black)
-
----
 
 <h4 align="center">🛠 MÓDULO_04: CAMADA_DEVOPS</h4>
 
@@ -176,22 +178,9 @@
 
 ---
 
-<h4 align="center">📡 COMUNICAÇÃO ENCRIPTADA</h4>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://www.linkedin.com/in/antônio-marcosrrds)
-[![Gmail](https://img.shields.io/badge/Gmail-FF0033?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:antoniomarcos.amrrds@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-FF00FF?style=for-the-badge\&logo=instagram\&logoColor=black)](https://www.instagram.com/antoniomarcosrrds)
-
-</div>
 
 ---
 
-<div align="center">
-<img width="857" height="1200" alt="image" src="https://github.com/user-attachments/assets/8f511f64-b6af-461c-8939-f1c60237b1bf" />
-
-</div>
 
 </td>
 </tr>
