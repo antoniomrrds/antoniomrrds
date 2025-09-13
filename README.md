@@ -13,7 +13,7 @@
 
 ```txt
 ID: EVA-2905
-FUNÇÃO: ENGENHEIRO BACKEND
+FUNÇÃO: DESENVOLVEDOR BACKEND EM ASCENSÃO
 STATUS: ONLINE ✅
 LOCALIZAÇÃO: BRASIL.MG.TERRA
 SINCRONIZAÇÃO: 99.7% COM SISTEMA MAGI
@@ -27,13 +27,12 @@ SINCRONIZAÇÃO: 99.7% COM SISTEMA MAGI
 🛸 Codificando hoje para dominar amanhã
 
 > *“Código é energia. Máquina é corpo. Missão é transcender limites.”*
-
 ---
 
 <h4 align="center">🔧 MÓDULO_01: ENGENHARIA_BACKEND</h4>
 
 ```bash
-> Linguagens: TypeScript | C#
+> Linguagens:  C# | TypeScript
 > Frameworks: Node.js | .NET
 > Protocolos: REST | JWT | JSON
 > Conceitos: Microserviços | Multithreading | Middleware
