@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=INICIANDO+M%C3%93DULO+ANT%C3%94NIO+MARCOS...;ANALISANDO+PROTOCOLOS+DE+REDE+%2B+FIREWALL+ATIVO...;SINCRONIZANDO+AMBIENTE+DE+DEV+%2B+CONT%C3%8AINER+DOCKER...;CONECTANDO+AO+SERVIDOR+NEO+TOKYO+%2B+VPN+ESTABILIZADA...;EXECUTANDO+SCRIPT+DE+DEPURA%C3%87%C3%83O+%2B+LOGS+NO+MODO+CYBER...;INTEGRANDO+COM+API+CYBERN%C3%89TICA+%2B+AUTENTICA%C3%87%C3%83O+JWT...;STATUS%3A+SISTEMA+PRONTO+PARA+OPERA%C3%87%C3%95ES+%2B+MONITORAMENTO+AO+VIVO...)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8f511f64-b6af-461c-8939-f1c60237b1bf" width="215" alt="Interface Futurista" align="left">
+ <img  alt="image" src="https://github.com/user-attachments/assets/3902000e-04c1-4efd-b962-a7c1bfe2c8da" width="300" alt="Interface Futurista" align="left">
 </div>
 <pre >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=1000&pause=1000&color=00FFFF&center=true&multiline=true&width=900&lines=LOADING+SYSTEM+INITIATED" alt="Typing SVG" /></a>
