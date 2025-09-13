@@ -1,13 +1,9 @@
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/7a/59/86/7a5986f10276d8cd3e666e364724054a.gif" width="1000"/>
-</div>
-
----
-
 <table>
   <tr>
     <td width="50%" valign="top">
+
+  <img src="https://i.pinimg.com/originals/7a/59/86/7a5986f10276d8cd3e666e364724054a.gif" width="100%"/>
+
 
 <!-- 🧠 SYSTEM INTERFACE - NEON_GENESIS_CYBERDEV vEVA.2099 -->
 
