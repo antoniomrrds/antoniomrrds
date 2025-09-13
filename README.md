@@ -16,7 +16,6 @@
 > 🌐 LOCALIZAÇÃO: BRASIL.MG.TERRA.QUADRANTE-7
 > 🔗 SINCRONIZAÇÃO: 99.7% - PRONTO PARA O MERGE
 > 🧬 CAMADA: CORE ∴ INTERFACE ∴ ASCENSÃO
-
 > 📁 MÓDULO ATIVO:
 > 🧑‍💻 DEV BACKEND EM TRANSCENDÊNCIA
 ```
@@ -29,23 +28,13 @@
 🛸 Codificando hoje para hackear o amanhã
 🧿 Visão além do escopo, além do tempo, além do humano
 </pre>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=21&duration=1000&pause=1000&color=FF6600&center=true&vCenter=true&multiline=true&repeat=false&width=2000&height=100&lines=Eu+sou+o+c%C3%B3digo+que+conecta+o+humano+ao+digital%2C+a+m%C3%A1quina+ao+corpo%2C+e+a+miss%C3%A3o+%C3%A9+transcender+os+limites+do+imposs%C3%ADvel.;Vamos+redefinir+o+futuro%2C+linha+por+linha.)](https://git.io/typing-svg)
- <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=30&duration=1000&pause=1000&color=FF6600&center=true&vCenter=true&multiline=true&repeat=false&width=2000&height=100&lines=Eu+sou+o+c%C3%B3digo+que+conecta+o+humano+ao+digital%2C+a+m%C3%A1quina+ao+corpo%2C+e+a+miss%C3%A3o+%C3%A9+transcender+os+limites+do+imposs%C3%ADvel.;Vamos+redefinir+o+futuro%2C+linha+por+linha." alt="Typing SVG" /></a> <br>
 
 
 
-<table style="width:100%">
-
-
-      
-  
-
-
-
-
-
-  <tr>
-    <td width="50%" valign="top">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8f511f64-b6af-461c-8939-f1c60237b1bf" width="215" alt="Interface Futurista" align="right">
+</div>
 
 <h4 align="center">🔧 MÓDULO_01: ENGENHARIA_BACKEND</h4>
 
@@ -61,6 +50,19 @@
 ![C#](https://img.shields.io/badge/C%23-00FFFF?style=for-the-badge\&logo=c-sharp\&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-FF0099?style=for-the-badge\&logo=dotnet\&logoColor=black)
 
+
+<table style="width:100%">
+
+
+      
+  
+
+
+
+
+
+  <tr>
+    <td width="50%" valign="top">
 ---
 
 <h4 align="center">🌐 MÓDULO_02: INTERFACE_DE_USUÁRIO</h4>
