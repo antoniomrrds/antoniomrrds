@@ -57,6 +57,8 @@
   <img width="268" height="188" alt="image" src="https://github.com/user-attachments/assets/546eb62f-46a5-412a-86b5-ba357986d75f"width="130" alt="Interface Futurista"align="left">
 </div>
 
+---
+
 <h4 align="center">🌐 MÓDULO_02: INTERFACE_DE_USUÁRIO</h4>
 
 ```bash
@@ -67,7 +69,7 @@
 ```
 ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge\&logo=next.js\&logoColor=FF00FF)
       
-
+---
 <div align="center">
 <img  alt="image" src="https://github.com/user-attachments/assets/a7f2bb18-7a1d-4d2f-af3d-23a1cfb8342e" width="300" alt="Interface Futurista"align="right">
 </div>
@@ -84,6 +86,28 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-00FF66?style=for-the-badge\&logo=mongodb\&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-FF00AA?style=for-the-badge\&logo=mysql\&logoColor=black)
 
+
+---
+
+
+<h4 align="center">🛠 MÓDULO_04: CAMADA_DEVOPS_E_DEV</h4>
+
+```bash
+> Orquestração de Deploy: Docker ∴ GitHub Actions
+> Ambiente de Desenvolvimento: VSCode ∴ Rider
+> Versionamento: Git ∴ GitHub
+```
+<div align="center">
+  
+![Git](https://img.shields.io/badge/GIT-FF3300?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF00FF)
+![Docker](https://img.shields.io/badge/Docker-00FFFF?style=for-the-badge&logo=docker&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge\&logo=rider\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+</div>
+
 <h4 align="center">📈 ATIVIDADE NO GITHUB</h4>
 
 <p align="center">
@@ -97,49 +121,6 @@
 </p>
 
 
-
-
-
-
-
-<table style="width:100%">
-  <tr>
-    <td width="50%" valign="top">
-
-<h4 align="center">🛠 MÓDULO_04: CAMADA_DEVOPS</h4>
-
-```bash
-> Orquestração de Deploy: Docker ∴ GitHub Actions
-> Testes de Integração: Postman ∴ Insomnia
-> Ambiente de Desenvolvimento: VSCode (com AI assistida)
-> Versionamento: Git ∴ GitHub
-```
-
-![Git](https://img.shields.io/badge/GIT-FF3300?style=for-the-badge&logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF00FF)
-![Docker](https://img.shields.io/badge/Docker-00FFFF?style=for-the-badge&logo=docker&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6600?style=for-the-badge&logo=postman&logoColor=black)
-![Insomnia](https://img.shields.io/badge/Insomnia-9900FF?style=for-the-badge&logo=insomnia&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-00FFCC?style=for-the-badge&logo=visual-studio-code&logoColor=black)
-
----
-
-<h4 align="center">🚧 MÓDULO_05: MOTOR_DE_APRENDIZADO</h4>
-
-```bash
-> Foco Atual:
-  ▸ Arquitetura Limpa com .NET
-  ▸ Pipelines CI/CD ∴ Containers Docker
-  ▸ Testes Automatizados ∴ Integração Contínua
-  ▸ Desenvolvimento com suporte de IA
-```
-
-![.NET](https://img.shields.io/badge/.NET-FF0099?style=for-the-badge&logo=.net&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-00FFAA?style=for-the-badge&logo=c-sharp&logoColor=black)
-
-</td>
-  </tr>
-</table>
 <h4 align="center">📡 COMUNICAÇÃO ENCRIPTADA</h4>
 
 <div align="center">
