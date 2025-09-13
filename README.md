@@ -1,34 +1,44 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=1000&lines=INICIANDO+M%C3%93DULO+ANT%C3%94NIO+MARCOS...;ANALISANDO+PROTOCOLOS+DE+REDE+%2B+FIREWALL+ATIVO...;SINCRONIZANDO+AMBIENTE+DE+DEV+%2B+CONT%C3%8AINER+DOCKER...;CONECTANDO+AO+SERVIDOR+NEO+TOKYO+%2B+VPN+ESTABILIZADA...;EXECUTANDO+SCRIPT+DE+DEPURA%C3%87%C3%83O+%2B+LOGS+NO+MODO+CYBER...;INTEGRANDO+COM+API+CYBERN%C3%89TICA+%2B+AUTENTICA%C3%87%C3%83O+JWT...;STATUS%3A+SISTEMA+PRONTO+PARA+OPERA%C3%87%C3%95ES+%2B+MONITORAMENTO+AO+VIVO...)](https://git.io/typing-svg)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8f511f64-b6af-461c-8939-f1c60237b1bf" width="215" alt="Interface Futurista" align="left">
+</div>
+<pre >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=1000&pause=1000&color=00FFFF&center=true&multiline=true&width=900&lines=LOADING+SYSTEM+INITIATED" alt="Typing SVG" /></a>
+</pre>
+
+
+```bash
+> 🆔 UUID: 2905-X
+> 🧑‍💻 IDENTIDADE: ANTONIO
+> 🧠 INTERFACE NEURAL: ATIVADA
+> 🛰️ STATUS: CONSCIÊNCIA DISTRIBUÍDA
+> 🌐 LOCALIZAÇÃO: BRASIL.MG.TERRA.QUADRANTE-7
+> 🔗 SINCRONIZAÇÃO: 99.7% - PRONTO PARA O MERGE
+> 🧬 CAMADA: CORE ∴ INTERFACE ∴ ASCENSÃO
+
+> 📁 MÓDULO ATIVO:
+> 🧑‍💻 DEV BACKEND EM TRANSCENDÊNCIA
+```
+
+<pre>
+🧠 Pensamento em tempo quântico
+⚙️ Arquitetando sistemas como quem molda realidades
+🌌 Explorador dos limites entre código e consciência
+🎮 Recarregando com pixels e adrenalina
+🛸 Codificando hoje para hackear o amanhã
+🧿 Visão além do escopo, além do tempo, além do humano
+</pre>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=21&duration=1000&pause=1000&color=FF6600&center=true&vCenter=true&multiline=true&repeat=false&width=2000&height=100&lines=Eu+sou+o+c%C3%B3digo+que+conecta+o+humano+ao+digital%2C+a+m%C3%A1quina+ao+corpo%2C+e+a+miss%C3%A3o+%C3%A9+transcender+os+limites+do+imposs%C3%ADvel.;Vamos+redefinir+o+futuro%2C+linha+por+linha.)](https://git.io/typing-svg)
+ <br>
+
+
+
+<table style="width:100%">
 
 
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF\&size=30\&center=true\&vCenter=true\&width=1000\&lines=INICIANDO+ANTÔNIO+MARCOS...;Sincronizando+Protocolo+MAGI...;Conectando+à+Matriz+Neo+Tokyo+🚀)](https://git.io/typing-svg)
-
-<table style="width:100%">
-  <tr >
-    <td  colspan="1" valign="left">
-            <!-- 🧠 SYSTEM INTERFACE - NEON_GENESIS_CYBERDEV vEVA.2099 -->
-      <h3 align="center">🧠 INTERFACE DO SISTEMA</h3>
-
-```
-ID: EVA-2905
-FUNÇÃO: DESENVOLVEDOR BACKEND EM ASCENSÃO
-STATUS: ONLINE ✅
-LOCALIZAÇÃO: BRASIL.MG.TERRA
-SINCRONIZAÇÃO: 99.7% COM SISTEMA MAGI
-```
-
-💡 Mente inquieta e curiosa<br>
-🧠 Paixão por inovação e tecnologia<br>
-🌌 Explorador dos limites do futuro<br>
-🎮 Gamer para recarregar a mente<br>
-🤖 Apaixonado por inteligência artificial
-🛸 Codificando hoje para dominar amanhã
-    </td>
-    <td colspan="1" >
-      <img  width="50%" alt="image" src="https://github.com/user-attachments/assets/8f511f64-b6af-461c-8939-f1c60237b1bf" />
-</td>
-</tr>
-
+  
 
 
 
@@ -37,35 +47,6 @@ SINCRONIZAÇÃO: 99.7% COM SISTEMA MAGI
   <tr>
     <td width="50%" valign="top">
 
-<img width="857" height="1200" alt="image" src="https://github.com/user-attachments/assets/8f511f64-b6af-461c-8939-f1c60237b1bf" />
-
-
-
-<!-- 🧠 SYSTEM INTERFACE - NEON_GENESIS_CYBERDEV vEVA.2099 -->
-
-<h3 align="center">🧠 INTERFACE DO SISTEMA</h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF\&size=30\&center=true\&vCenter=true\&width=500\&lines=INICIANDO+ANTÔNIO+MARCOS...;Sincronizando+Protocolo+MAGI...;Conectando+à+Matriz+Neo+Tokyo+🚀)](https://git.io/typing-svg)
-
-```
-ID: EVA-2905
-FUNÇÃO: DESENVOLVEDOR BACKEND EM ASCENSÃO
-STATUS: ONLINE ✅
-LOCALIZAÇÃO: BRASIL.MG.TERRA
-SINCRONIZAÇÃO: 99.7% COM SISTEMA MAGI
-```
-
-💡 Mente inquieta e curiosa<br>
-🧠 Paixão por inovação e tecnologia<br>
-🌌 Explorador dos limites do futuro<br>
-🎮 Gamer para recarregar a mente<br>
-🤖 Apaixonado por inteligência artificial
-🛸 Codificando hoje para dominar amanhã
-
-
-
-> *[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=1000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=false&width=900&lines=C%C3%B3digo+%C3%A9+energia.+M%C3%A1quina+%C3%A9+corpo.+Miss%C3%A3o+%C3%A9+transcender+limites.)](https://git.io/typing-svg)*
----
 <h4 align="center">🔧 MÓDULO_01: ENGENHARIA_BACKEND</h4>
 
 ```bash
