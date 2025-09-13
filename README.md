@@ -36,13 +36,12 @@
 </p>
 
 
-<h4 align="center">🔧 MÓDULO_01: ENGENHARIA_BACKEND</h4>
+<h4 align="center">💻 MÓDULO_01: DESENVOLVIMENTO_BACKEND</h4>
 
 ```bash
 > 🧠 Linguagens Ativas: C# ∴ TypeScript
 > ⚙️ Plataformas: Node.js ∴ .NET
 > 🧬 Status: Estável ∴ Pronto para Escalar
-> 🔗 Pipeline Neural: Conectado ao Núcleo de Ascensão
 
 ```
 
@@ -107,20 +106,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 </div>
-
-<h4 align="center">📈 ATIVIDADE NO GITHUB</h4>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniomrrds&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antoniomrrds&theme=tokyonight" />
-</p>
-
-<p align="center">
+<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=1000&pause=1000&color=FF6600&vCenter=true&repeat=false&width=900&lines=O+desenvolvedor+do+amanh%C3%A3+n%C3%A3o+escreve+s%C3%B3+c%C3%B3digo+%E2%80%94+ele+cria+destinos)](https://git.io/typing-svg)
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=1000&pause=1000&color=FF6600&center=true&vCenter=true&multiline=true&repeat=false&width=900&lines=O+desenvolvedor+do+amanh%C3%A0+n%C3%A3o+escreve+s%C3%B3+c%C3%B3digo+-+ele+cria+destinos" alt="Typing SVG" /></a>
 
-
+</div>
 <h4 align="center">📡 COMUNICAÇÃO ENCRIPTADA</h4>
 
 <div align="center">
