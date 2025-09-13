@@ -1,11 +1,44 @@
 
 
+      
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF\&size=30\&center=true\&vCenter=true\&width=1000\&lines=INICIANDO+ANTÔNIO+MARCOS...;Sincronizando+Protocolo+MAGI...;Conectando+à+Matriz+Neo+Tokyo+🚀)](https://git.io/typing-svg)
+
 <table style="width:100%">
+  <tr >
+    <td  colspan="1" valign="left">
+            <!-- 🧠 SYSTEM INTERFACE - NEON_GENESIS_CYBERDEV vEVA.2099 -->
+      <h3 align="center">🧠 INTERFACE DO SISTEMA</h3>
+
+```
+ID: EVA-2905
+FUNÇÃO: DESENVOLVEDOR BACKEND EM ASCENSÃO
+STATUS: ONLINE ✅
+LOCALIZAÇÃO: BRASIL.MG.TERRA
+SINCRONIZAÇÃO: 99.7% COM SISTEMA MAGI
+```
+
+💡 Mente inquieta e curiosa<br>
+🧠 Paixão por inovação e tecnologia<br>
+🌌 Explorador dos limites do futuro<br>
+🎮 Gamer para recarregar a mente<br>
+🤖 Apaixonado por inteligência artificial
+🛸 Codificando hoje para dominar amanhã
+    </td>
+    <td colspan="1" >
+      <img  width="50%" alt="image" src="https://github.com/user-attachments/assets/8f511f64-b6af-461c-8939-f1c60237b1bf" />
+</td>
+</tr>
+
+
+
+
+
 
   <tr>
     <td width="50%" valign="top">
 
-  <img src="https://i.pinimg.com/originals/7a/59/86/7a5986f10276d8cd3e666e364724054a.gif" width="100%"/>
+<img width="857" height="1200" alt="image" src="https://github.com/user-attachments/assets/8f511f64-b6af-461c-8939-f1c60237b1bf" />
+
 
 
 <!-- 🧠 SYSTEM INTERFACE - NEON_GENESIS_CYBERDEV vEVA.2099 -->
@@ -14,7 +47,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF\&size=30\&center=true\&vCenter=true\&width=500\&lines=INICIANDO+ANTÔNIO+MARCOS...;Sincronizando+Protocolo+MAGI...;Conectando+à+Matriz+Neo+Tokyo+🚀)](https://git.io/typing-svg)
 
-```txt
+```
 ID: EVA-2905
 FUNÇÃO: DESENVOLVEDOR BACKEND EM ASCENSÃO
 STATUS: ONLINE ✅
