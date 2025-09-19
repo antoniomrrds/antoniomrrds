@@ -73,7 +73,7 @@
 <img  alt="image" src="https://github.com/user-attachments/assets/a7f2bb18-7a1d-4d2f-af3d-23a1cfb8342e" width="300" alt="Interface Futurista"align="right">
 </div>
 
-<h4 align="center">🧠 MÓDULO_03: NÚCLEO_DE_DADOS</h4>
+<h4 align="center">🧠 MÓDULO_02: NÚCLEO_DE_DADOS</h4>
 
 ```bash
 > 🗄️ Bancos: PostgreSQL ∴ MongoDB ∴ MySQL
