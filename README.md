@@ -49,6 +49,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-FF00FF?style=for-the-badge\&logo=typescript\&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-00FFFF?style=for-the-badge\&logo=c-sharp\&logoColor=black)
 ![.NET](https://img.shields.io/badge/.NET-FF0099?style=for-the-badge\&logo=dotnet\&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
 
