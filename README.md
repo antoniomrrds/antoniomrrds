@@ -100,6 +100,7 @@
   
 ![Git](https://img.shields.io/badge/GIT-FF3300?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF00FF)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-00FFFF?style=for-the-badge&logo=docker&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge\&logo=rider\&logoColor=white)
