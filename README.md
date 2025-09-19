@@ -89,7 +89,7 @@
 ---
 
 
-<h4 align="center">🛠 MÓDULO_04: CAMADA_DEVOPS_E_DEV</h4>
+<h4 align="center">🛠 MÓDULO_03: CAMADA_DEVOPS_E_DEV</h4>
 
 ```bash
 > Orquestração de Deploy: Docker ∴ GitHub Actions
