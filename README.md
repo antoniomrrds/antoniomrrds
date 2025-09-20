@@ -1,18 +1,13 @@
-# 👋 はじめまして！(Prazer em te conhecer!)
-<!-- <div align="left">
-  <img  alt="image" src="https://github.com/user-attachments/assets/89d3392e-a67b-4559-92bb-c34523ba798a" />
-
-<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/c51bc090-ff64-480a-b8f0-0753439f889a" />
-</div> -->
+# 👋 始めまして！(Prazer em te conhecer!)
 <div align="center">
-   <img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/c51bc090-ff64-480a-b8f0-0753439f889a" align="left">
+  <img width="100%" alt="image" src="https://github.com/user-attachments/assets/b1e68a10-59d9-41bb-bd52-727f51bf3290" />
 </div>
 
   
 📖 Minha Jornada
 <hr>
-  Backend Developer por profissão, otaku por inspiração e runner por disciplina.
-Minha vida é movida a café ☕ (meu pote de mana infinita), histórias épicas de animes e desafios que me fazem subir de nível como em um RPG.
+  Backend Developer por profissão, otaku por inspiração e runner por disciplina.<br>
+ Minha vida é movida a café ☕ (meu pote de mana infinita),<br> histórias épicas de animes e desafios que me fazem subir de nível como em um RPG.<br>
 Cada bug derrotado é XP ganho. Cada projeto é um novo arco da minha jornada
 </pre>
 
@@ -77,8 +72,7 @@ Cada bug derrotado é XP ganho. Cada projeto é um novo arco da minha jornada
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:antoniomarcos.amrrds@gmail.com)
 
 </div>
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bd3d9a5c-f98f-4167-8ff9-ddf73390b985" />
-
+<img  width="100%" alt="image" src="https://github.com/user-attachments/assets/d96bc13b-eb4d-490f-95ec-d745713e20f5" />
 
 ---
 
