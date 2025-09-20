@@ -1,25 +1,29 @@
 # 👋 はじめまして！(Prazer em te conhecer!)
-<div align="left">
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f60dce76-5861-484a-9c54-b6fc92f4b5ab" />
+<!-- <div align="left">
+  <img  alt="image" src="https://github.com/user-attachments/assets/89d3392e-a67b-4559-92bb-c34523ba798a" />
+
+<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/c51bc090-ff64-480a-b8f0-0753439f889a" />
+</div> -->
+<div align="center">
+   <img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/c51bc090-ff64-480a-b8f0-0753439f889a" align="left">
 </div>
-<pre>
-🆔 Nome: Antonio  
-📍 Minas Gerais, Brasil  
-🎌 Fascinado pela cultura japonesa  
-💻 Backend Developer em jornada de evolução constante
+
+  
+📖 Minha Jornada
+<hr>
+  Backend Developer por profissão, otaku por inspiração e runner por disciplina.
+Minha vida é movida a café ☕ (meu pote de mana infinita), histórias épicas de animes e desafios que me fazem subir de nível como em um RPG.
+Cada bug derrotado é XP ganho. Cada projeto é um novo arco da minha jornada
 </pre>
 
-## 📖 Minha Jornada
-
-Nascido em uma pequena vila de Minas, encontrei no backend meu caminho de batalha.
-Enquanto muitos buscavam brilho no front, escolhi ser o arquiteto invisível que sustenta o todo.
-Cada bug é um inimigo oculto, e cada linha de código, uma técnica secreta que fortalece o sistema.
-
-> “Meu código pode ser invisível, mas é ele que mantém o mundo em equilíbrio.” ⚔️
+<br>
 
 ---
-
-## ⚡ Fontes de Energia
+<div align="center">
+   <img width="400" height="225" alt="image"src="https://github.com/user-attachments/assets/89d3392e-a67b-4559-92bb-c34523ba798a"  align="right">
+</div>
+</div>
+⚡ Fontes de Energia
 
 * 🏃‍♂️ Corrida → disciplina e superação, como treino de heróis shonen
 * 📚 Mangás & Animes → combustível para criatividade e resiliência
@@ -37,7 +41,6 @@ Cada bug é um inimigo oculto, e cada linha de código, uma técnica secreta que
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
 
 ### Bancos de Dados
 
@@ -74,6 +77,8 @@ Cada bug é um inimigo oculto, e cada linha de código, uma técnica secreta que
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:antoniomarcos.amrrds@gmail.com)
 
 </div>
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bd3d9a5c-f98f-4167-8ff9-ddf73390b985" />
+
 
 ---
 
