@@ -1,7 +1,8 @@
 ## 👾 Yo! Prazer, aventureiro do código! (始めまして！)
 
 <div align="left">
-  <img width="30%"  alt="banner" src="https://github.com/user-attachments/assets/b1e68a10-59d9-41bb-bd52-727f51bf3290"  align="left"/>
+  <img width="50%"  alt="banner" src="https://github.com/user-attachments/assets/b1e68a10-59d9-41bb-bd52-727f51bf3290"  align="left"/>
+  <img width="50%" alt="image" src="https://github.com/user-attachments/assets/244e0719-5232-4bcd-a075-1af2e01c5492" align="right"/>
 </div>
 
 
@@ -12,10 +13,9 @@
 📺 Histórias épicas de animes moldam minha criatividade, resiliência e visão de mundo.  
 🧩 Cada bug derrotado é **XP ganho**. Cada projeto, um **novo arco da saga**.  
 🎯 Missão: **evoluir constantemente** — no código, na cultura e em mim mesmo.  
-
----
-
-## ⚡ Fontes de Energia
+<br>
+<br>
+<br>⚡ Fontes de Energia
 
 - 🏃‍♂️ **Corrida** → disciplina e superação, como o treino diário de um herói shonen  
 - 📚 **Mangás & Animes** → combustível para criatividade e resiliência  
