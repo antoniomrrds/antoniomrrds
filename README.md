@@ -1,12 +1,11 @@
 ## 👾 Yo! Prazer, aventureiro do código! (始めまして！)
 
-<div align="center">
-  <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/b1e68a10-59d9-41bb-bd52-727f51bf3290" />
+<div align="left">
+  <img width="30%"  alt="banner" src="https://github.com/user-attachments/assets/b1e68a10-59d9-41bb-bd52-727f51bf3290"  align="left"/>
 </div>
 
----
 
-## 📖 Minha Jornada
+📖 Minha Jornada
 
 🧙‍♂️ **Backend Developer** por profissão, **otaku** por paixão e **runner** por disciplina.  
 ☕ Sustentado a **café**, meu **elixir de mana infinita**.  
