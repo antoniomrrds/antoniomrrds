@@ -1,7 +1,6 @@
 # 👋 はじめまして！(Prazer em te conhecer!)
-
 <div align="left">
-  <img width="200" alt="1a41e432-ea55-4b82-9f86-5f131a6482bd-1" src="https://github.com/user-attachments/assets/f85256a6-59b3-4680-8bf6-6be2519ab8b7" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f60dce76-5861-484a-9c54-b6fc92f4b5ab" />
 </div>
 <pre>
 🆔 Nome: Antonio  
