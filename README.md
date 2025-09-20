@@ -1,17 +1,14 @@
 # 👋 はじめまして！(Prazer em te conhecer!)
 
-<div align="center">
-  <img src="https://i.ibb.co/Z6kHZss/japan-anime-backend.png" alt="Samurai & Código - Japão" width="900"/>
+<div align="left">
+  <img width="200" alt="1a41e432-ea55-4b82-9f86-5f131a6482bd-1" src="https://github.com/user-attachments/assets/f85256a6-59b3-4680-8bf6-6be2519ab8b7" />
 </div>
-
-```bash
+<pre>
 🆔 Nome: Antonio  
 📍 Minas Gerais, Brasil  
 🎌 Fascinado pela cultura japonesa  
 💻 Backend Developer em jornada de evolução constante
-```
-
----
+</pre>
 
 ## 📖 Minha Jornada
 
@@ -82,7 +79,3 @@ Cada bug é um inimigo oculto, e cada linha de código, uma técnica secreta que
 ---
 
 > “Na programação, como nos animes, a evolução nunca tem fim. Cada linha escrita é um passo para um novo nível.”
-
----
-
-👉 Quer que eu crie uma **arte exclusiva em estilo anime/japonês** para colocar no topo (ao invés de usar imagens prontas da internet), com referência a **samurai + programação**?
