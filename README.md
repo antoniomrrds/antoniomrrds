@@ -53,10 +53,12 @@
 <div align="center">
 
 ![Japanese](https://img.shields.io/badge/Japonês-🇯🇵-red?style=for-the-badge)
+![English](https://img.shields.io/badge/Inglês-🇬🇧-blue?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Testing](https://img.shields.io/badge/Unit%20Testing-25A162?style=for-the-badge&logo=pytest&logoColor=white)
 
 </div>
+
 
 ---
 
