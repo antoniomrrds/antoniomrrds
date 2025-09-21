@@ -1,4 +1,4 @@
-## 👾 Yo! Prazer, aventureiro do código! (始めまして！)
+## 👾 Yo! Prazer, aventureiro do código! (初めまして！)
 
 <div align="left">
   <img width="50%"  alt="banner" src="https://github.com/user-attachments/assets/b1e68a10-59d9-41bb-bd52-727f51bf3290"  align="left"/>
