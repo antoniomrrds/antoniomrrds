@@ -23,59 +23,52 @@
 - 🈸 **Japonês** → aprendendo cultura e idioma como quem desbloqueia uma nova skill tree  
 - 💻 **Programação** → sempre no grind, porque **o farm nunca acaba**  
 
----
+## 📊 Estatísticas GitHub
+
+<table>
+<tr>
+<td>
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antoniomrrds&theme=2077)
+<td>
+  
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoniomrrds&theme=2077)
+
+</td>
+</tr>
+</table>
+</div>
+
+
 
 ## 💻 Skills & Ferramentas
 
 ### 🧠 Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,dapper,nodejs,typescript,express&titles=true)
 
 ### 🗃️ Bancos de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  </a>
+</p>
 
 ### ⚙️ DevOps & Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rider,visualstudio,vscode,git,docker,linux,gitlab,github,postman" />
+  </a>
+</p>
 
----
 
 ## 📚 Currently Learning
-<div align="center">
+<div align="left">
 
 ![Japanese](https://img.shields.io/badge/Japonês-🇯🇵-red?style=for-the-badge)
 ![English](https://img.shields.io/badge/Inglês-🇬🇧-blue?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-000000?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Testing](https://img.shields.io/badge/Unit%20Testing-25A162?style=for-the-badge&logo=pytest&logoColor=white)
 
-</div>
-
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antoniomrrds&theme=tokyonight" />
-</td>
-<td>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoniomrrds&layout=compact&langs_count=8&card_width=420" />
-</td>
-</tr>
-</table>
 </div>
 
 ---
