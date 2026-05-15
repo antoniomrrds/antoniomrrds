@@ -49,7 +49,7 @@
 ### 🗃️ Bancos de Dados
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   </a>
 </p>
 
